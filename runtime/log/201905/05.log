@@ -1,0 +1,2275 @@
+---------------------------------------------------------------
+[ 2019-05-05T19:59:27+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.113540s] [吞吐率：0.90req/s] [内存消耗：3,271.02kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000015s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T19:59:30+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.164879s] [吞吐率：0.86req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000027s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T19:59:33+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.148522s] [吞吐率：0.87req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000018s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T19:59:36+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.137261s] [吞吐率：0.88req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000015s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T19:59:39+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.135961s] [吞吐率：0.88req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000014s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T19:59:42+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.150756s] [吞吐率：0.87req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000021s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T19:59:45+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.134544s] [吞吐率：0.88req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000014s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T19:59:48+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.148383s] [吞吐率：0.87req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000014s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T19:59:51+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.127149s] [吞吐率：0.89req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000015s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T19:59:54+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.136964s] [吞吐率：0.88req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000015s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T19:59:57+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.159214s] [吞吐率：0.86req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000015s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:00:00+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.146678s] [吞吐率：0.87req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000014s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:00:03+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.134746s] [吞吐率：0.88req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000015s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:00:06+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.173216s] [吞吐率：0.85req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000015s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:00:09+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.164279s] [吞吐率：0.86req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000014s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:00:12+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.166851s] [吞吐率：0.86req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000019s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:00:15+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.139657s] [吞吐率：0.88req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000014s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:00:18+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.140697s] [吞吐率：0.88req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000017s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:00:21+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.151546s] [吞吐率：0.87req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000015s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:00:24+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.138564s] [吞吐率：0.88req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000014s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:00:27+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.145819s] [吞吐率：0.87req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000044s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:00:30+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.157630s] [吞吐率：0.86req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000021s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:00:33+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.143729s] [吞吐率：0.87req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000014s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:00:36+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.150241s] [吞吐率：0.87req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000016s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:00:39+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.144528s] [吞吐率：0.87req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000017s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:00:42+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.149738s] [吞吐率：0.87req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000017s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:00:45+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.145875s] [吞吐率：0.87req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000076s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:00:48+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.179804s] [吞吐率：0.85req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000021s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:00:51+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.154148s] [吞吐率：0.87req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000014s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:00:54+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.172462s] [吞吐率：0.85req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000020s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:00:57+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.161428s] [吞吐率：0.86req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000016s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:01:00+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.142759s] [吞吐率：0.88req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000015s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:01:03+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.128176s] [吞吐率：0.89req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:01:06+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.143521s] [吞吐率：0.87req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000014s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:01:09+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.158283s] [吞吐率：0.86req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000015s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:01:12+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.151237s] [吞吐率：0.87req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000015s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:01:15+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.127120s] [吞吐率：0.89req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000020s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:01:18+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.135265s] [吞吐率：0.88req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000030s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:01:21+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.132563s] [吞吐率：0.88req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000047s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:01:24+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.124316s] [吞吐率：0.89req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000014s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:01:27+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.144348s] [吞吐率：0.87req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000014s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:01:30+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.152016s] [吞吐率：0.87req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000019s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:01:35+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.188346s] [吞吐率：0.84req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000016s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:01:36+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.147683s] [吞吐率：0.87req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000015s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:01:39+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.149238s] [吞吐率：0.87req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000017s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:01:42+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.143798s] [吞吐率：0.87req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000014s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:01:45+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.142969s] [吞吐率：0.87req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000015s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:01:48+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.164169s] [吞吐率：0.86req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000014s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:01:51+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.136423s] [吞吐率：0.88req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000014s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:02:06+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.153184s] [吞吐率：0.87req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000015s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:02:07+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.177011s] [吞吐率：0.85req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000018s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:02:08+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.135312s] [吞吐率：0.88req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000015s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:02:09+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.143926s] [吞吐率：0.87req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000015s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:02:12+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.145283s] [吞吐率：0.87req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000014s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:02:15+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.179417s] [吞吐率：0.85req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000018s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:02:18+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.144403s] [吞吐率：0.87req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000015s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:02:21+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/index/jnotice.html
+[运行时间：1.165024s] [吞吐率：0.86req/s] [内存消耗：3,271.08kb] [文件加载：72]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000031s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:02:22+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/login/logout.html
+[运行时间：0.024697s] [吞吐率：40.49req/s] [内存消耗：1,893.78kb] [文件加载：54]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'logout',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->logout[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:02:22+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/login/index.html
+[运行时间：0.021637s] [吞吐率：46.22req/s] [内存消耗：1,551.98kb] [文件加载：49]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->index[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\CRMEB/application/admin\view\login\index.php [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:02:22+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/login/captcha.html
+[运行时间：0.022250s] [吞吐率：44.94req/s] [内存消耗：1,550.41kb] [文件加载：48]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/login/index.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->captcha[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:02:44+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/login/index.html
+[运行时间：0.035510s] [吞吐率：28.16req/s] [内存消耗：1,551.63kb] [文件加载：49]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->index[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] C:\phpStudy\PHPTutorial\WWW\CRMEB/application/admin\view\login\index.php [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-05T20:02:44+08:00 ] 127.0.0.1 GET www.shop.com/index.php/admin/login/captcha.html
+[运行时间：0.022398s] [吞吐率：44.65req/s] [内存消耗：1,550.57kb] [文件加载：48]
+[ info ] [ LANG ] C:\phpStudy\PHPTutorial\WWW\CRMEB\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=br33vo5p4mn3featv06lmc5nm7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.shop.com/index.php/admin/login/index.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'www.shop.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->captcha[ C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\controller\Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File

@@ -1,0 +1,553 @@
+---------------------------------------------------------------
+[ 2019-06-09T00:14:14+08:00 ] 183.239.138.214 GET app.taijidjk69.com/api/h5/good/details?id=null
+[运行时间：0.007184s] [吞吐率：139.20req/s] [内存消耗：580.31kb] [文件加载：69]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'h5.good',
+    2 => 'details',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36',
+  'origin' => 'null',
+  'accept' => 'application/json, text/plain, */*',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => 'null ',
+  'ver' => 'h5',
+)
+[ info ] [ RUN ] app\api\controller\H5\Good->details[ /data/wwwroot/app/application/api/controller/h5/Good.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-06-09T00:14:17+08:00 ] 183.239.138.214 GET app.taijidjk69.com/api/h5/good/ProductAttrDetail?productId=8
+[运行时间：0.008529s] [吞吐率：117.25req/s] [内存消耗：692.86kb] [文件加载：71]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'h5.good',
+    2 => 'productattrdetail',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36',
+  'origin' => 'null',
+  'accept' => 'application/json, text/plain, */*',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'productId' => '8',
+  'ver' => 'h5',
+)
+[ info ] [ RUN ] app\api\controller\H5\Good->ProductAttrDetail[ /data/wwwroot/app/application/api/controller/h5/Good.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-06-09T00:14:20+08:00 ] 183.239.138.214 GET app.taijidjk69.com/api/h5/good/ProductAttrDetail?productId=8
+[运行时间：0.008614s] [吞吐率：116.09req/s] [内存消耗：692.86kb] [文件加载：71]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'h5.good',
+    2 => 'productattrdetail',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36',
+  'origin' => 'null',
+  'accept' => 'application/json, text/plain, */*',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'productId' => '8',
+  'ver' => 'h5',
+)
+[ info ] [ RUN ] app\api\controller\H5\Good->ProductAttrDetail[ /data/wwwroot/app/application/api/controller/h5/Good.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-06-09T00:14:21+08:00 ] 183.239.138.214 GET app.taijidjk69.com/api/h5/good/ProductAttrDetail?productId=8
+[运行时间：0.008500s] [吞吐率：117.65req/s] [内存消耗：692.86kb] [文件加载：71]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'h5.good',
+    2 => 'productattrdetail',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36',
+  'origin' => 'null',
+  'accept' => 'application/json, text/plain, */*',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'productId' => '8',
+  'ver' => 'h5',
+)
+[ info ] [ RUN ] app\api\controller\H5\Good->ProductAttrDetail[ /data/wwwroot/app/application/api/controller/h5/Good.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-06-09T00:14:21+08:00 ] 183.239.138.214 GET app.taijidjk69.com/api/h5/good/ProductAttrDetail?productId=8
+[运行时间：0.008527s] [吞吐率：117.27req/s] [内存消耗：692.86kb] [文件加载：71]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'h5.good',
+    2 => 'productattrdetail',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36',
+  'origin' => 'null',
+  'accept' => 'application/json, text/plain, */*',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'productId' => '8',
+  'ver' => 'h5',
+)
+[ info ] [ RUN ] app\api\controller\H5\Good->ProductAttrDetail[ /data/wwwroot/app/application/api/controller/h5/Good.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-06-09T07:20:29+08:00 ] 47.100.104.184 GET app.taijidjk69.com/
+[运行时间：0.004480s] [吞吐率：223.21req/s] [内存消耗：416.98kb] [文件加载：68]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+  'host' => 'app.taijidjk69.com',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D))',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-06-09T07:20:29+08:00 ] 47.100.104.184 GET app.taijidjk69.com/admin/login/index.html
+[运行时间：0.003731s] [吞吐率：268.02req/s] [内存消耗：306.81kb] [文件加载：62]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+  'host' => 'app.taijidjk69.com',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D))',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->index[ /data/wwwroot/app/application/admin/controller/Login.php ]
+[ info ] [ VIEW ] /data/wwwroot/app/application/admin/view/login/index.php [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-06-09T09:28:37+08:00 ] 119.136.155.39 GET app.taijidjk69.com/api/v1/good/details?token=e532d7dbb63b6fec10c8d057478b98a9040b1fc3&id=3
+[运行时间：0.007304s] [吞吐率：136.91req/s] [内存消耗：645.77kb] [文件加载：74]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.good',
+    2 => 'details',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip;q=1.0, compress;q=0.5',
+  'accept-language' => 'zh-Hans-CN;q=1.0, ja-JP;q=0.9',
+  'sign' => 'dfgdfgdfgfdgdfs',
+  'user-agent' => 'taiji/1.0 (com.jiushengai.joy; build:1; iOS 11.0.1) Alamofire/4.8.2',
+  'accept' => '*/*',
+  'app-type' => 'ios',
+  'connection' => 'keep-alive',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => 'app.taijidjk69.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'token' => 'e532d7dbb63b6fec10c8d057478b98a9040b1fc3',
+  'id' => '3',
+  'ver' => 'v1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [0]token错误[/data/wwwroot/app/application/api/controller/Auth.php:56]
+---------------------------------------------------------------
+[ 2019-06-09T11:41:32+08:00 ] 14.155.157.216 GET app.taijidjk69.com/api/v1/home/baner?token=b8069624bf2f4e4cc1c79ce78fb09539c31dc58c
+[运行时间：0.007734s] [吞吐率：129.30req/s] [内存消耗：660.00kb] [文件加载：73]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.home',
+    2 => 'baner',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip;q=1.0, compress;q=0.5',
+  'accept-language' => 'zh-Hans-CN;q=1.0',
+  'sign' => 'dfgdfgdfgfdgdfs',
+  'user-agent' => 'taiji/1.0 (com.jiushengai.joy; build:1; iOS 11.4.1) Alamofire/4.8.2',
+  'accept' => '*/*',
+  'app-type' => 'ios',
+  'connection' => 'keep-alive',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => 'app.taijidjk69.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'token' => 'b8069624bf2f4e4cc1c79ce78fb09539c31dc58c',
+  'ver' => 'v1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\v1\Home->Baner[ /data/wwwroot/app/application/api/controller/v1/Home.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-06-09T11:41:32+08:00 ] 14.155.157.216 GET app.taijidjk69.com/api/v1/home/adpic?token=b8069624bf2f4e4cc1c79ce78fb09539c31dc58c
+[运行时间：0.006493s] [吞吐率：154.01req/s] [内存消耗：659.78kb] [文件加载：73]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.home',
+    2 => 'adpic',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip;q=1.0, compress;q=0.5',
+  'accept-language' => 'zh-Hans-CN;q=1.0',
+  'sign' => 'dfgdfgdfgfdgdfs',
+  'user-agent' => 'taiji/1.0 (com.jiushengai.joy; build:1; iOS 11.4.1) Alamofire/4.8.2',
+  'accept' => '*/*',
+  'app-type' => 'ios',
+  'connection' => 'keep-alive',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => 'app.taijidjk69.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'token' => 'b8069624bf2f4e4cc1c79ce78fb09539c31dc58c',
+  'ver' => 'v1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\v1\Home->Adpic[ /data/wwwroot/app/application/api/controller/v1/Home.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-06-09T11:41:32+08:00 ] 14.155.157.216 GET app.taijidjk69.com/api/v1/home/goodhot?token=b8069624bf2f4e4cc1c79ce78fb09539c31dc58c&page=1
+[运行时间：0.007436s] [吞吐率：134.48req/s] [内存消耗：675.06kb] [文件加载：76]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.home',
+    2 => 'goodhot',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip;q=1.0, compress;q=0.5',
+  'accept-language' => 'zh-Hans-CN;q=1.0',
+  'sign' => 'dfgdfgdfgfdgdfs',
+  'user-agent' => 'taiji/1.0 (com.jiushengai.joy; build:1; iOS 11.4.1) Alamofire/4.8.2',
+  'accept' => '*/*',
+  'app-type' => 'ios',
+  'connection' => 'keep-alive',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => 'app.taijidjk69.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'token' => 'b8069624bf2f4e4cc1c79ce78fb09539c31dc58c',
+  'page' => '1',
+  'ver' => 'v1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\v1\Home->Goodhot[ /data/wwwroot/app/application/api/controller/v1/Home.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-06-09T12:12:54+08:00 ] 43.225.208.64 GET app.taijidjk69.com/api/h5/good/details?id=null
+[运行时间：0.007661s] [吞吐率：130.53req/s] [内存消耗：581.15kb] [文件加载：69]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'h5.good',
+    2 => 'details',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'x-requested-with' => 'com.tencent.mm',
+  'accept-language' => 'zh-CN,en-US;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://h6.taijidjk69.com/?from=timeline',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 8.1.0; PAAM00 Build/OPM1.171019.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 MQQBrowser/6.2 TBS/044704 Mobile Safari/537.36 MMWEBID/7061 MicroMessenger/7.0.4.1420(0x2700043C) Process/tools NetType/WIFI Language/zh_CN',
+  'origin' => 'http://h6.taijidjk69.com',
+  'accept' => 'application/json, text/plain, */*',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => 'null ',
+  'ver' => 'h5',
+)
+[ info ] [ RUN ] app\api\controller\H5\Good->details[ /data/wwwroot/app/application/api/controller/h5/Good.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-06-09T16:07:02+08:00 ] 112.96.112.99 GET app.taijidjk69.com/api/v1/good/details?token=e532d7dbb63b6fec10c8d057478b98a9040b1fc3&id=1
+[运行时间：0.007674s] [吞吐率：130.31req/s] [内存消耗：645.77kb] [文件加载：74]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.good',
+    2 => 'details',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip;q=1.0, compress;q=0.5',
+  'accept-language' => 'zh-Hans-CN;q=1.0, ja-JP;q=0.9',
+  'sign' => 'dfgdfgdfgfdgdfs',
+  'user-agent' => 'taiji/1.0 (com.jiushengai.joy; build:1; iOS 11.0.1) Alamofire/4.8.2',
+  'accept' => '*/*',
+  'app-type' => 'ios',
+  'connection' => 'keep-alive',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => 'app.taijidjk69.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'token' => 'e532d7dbb63b6fec10c8d057478b98a9040b1fc3',
+  'id' => '1',
+  'ver' => 'v1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [0]token错误[/data/wwwroot/app/application/api/controller/Auth.php:56]
+---------------------------------------------------------------
+[ 2019-06-09T16:13:29+08:00 ] 117.136.40.199 GET app.taijidjk69.com/api/v1/home/baner?token=b8069624bf2f4e4cc1c79ce78fb09539c31dc58c
+[运行时间：0.007602s] [吞吐率：131.54req/s] [内存消耗：660.00kb] [文件加载：73]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.home',
+    2 => 'baner',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip;q=1.0, compress;q=0.5',
+  'accept-language' => 'zh-Hans-CN;q=1.0',
+  'sign' => 'dfgdfgdfgfdgdfs',
+  'user-agent' => 'taiji/1.0 (com.jiushengai.joy; build:1; iOS 11.4.1) Alamofire/4.8.2',
+  'accept' => '*/*',
+  'app-type' => 'ios',
+  'connection' => 'keep-alive',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => 'app.taijidjk69.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'token' => 'b8069624bf2f4e4cc1c79ce78fb09539c31dc58c',
+  'ver' => 'v1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\v1\Home->Baner[ /data/wwwroot/app/application/api/controller/v1/Home.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-06-09T16:13:29+08:00 ] 117.136.40.199 GET app.taijidjk69.com/api/v1/home/adpic?token=b8069624bf2f4e4cc1c79ce78fb09539c31dc58c
+[运行时间：0.006820s] [吞吐率：146.63req/s] [内存消耗：659.78kb] [文件加载：73]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.home',
+    2 => 'adpic',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip;q=1.0, compress;q=0.5',
+  'accept-language' => 'zh-Hans-CN;q=1.0',
+  'sign' => 'dfgdfgdfgfdgdfs',
+  'user-agent' => 'taiji/1.0 (com.jiushengai.joy; build:1; iOS 11.4.1) Alamofire/4.8.2',
+  'accept' => '*/*',
+  'app-type' => 'ios',
+  'connection' => 'keep-alive',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => 'app.taijidjk69.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'token' => 'b8069624bf2f4e4cc1c79ce78fb09539c31dc58c',
+  'ver' => 'v1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\v1\Home->Adpic[ /data/wwwroot/app/application/api/controller/v1/Home.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-06-09T16:13:29+08:00 ] 117.136.40.199 GET app.taijidjk69.com/api/v1/home/goodhot?token=b8069624bf2f4e4cc1c79ce78fb09539c31dc58c&page=1
+[运行时间：0.008372s] [吞吐率：119.45req/s] [内存消耗：675.06kb] [文件加载：76]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.home',
+    2 => 'goodhot',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip;q=1.0, compress;q=0.5',
+  'accept-language' => 'zh-Hans-CN;q=1.0',
+  'sign' => 'dfgdfgdfgfdgdfs',
+  'user-agent' => 'taiji/1.0 (com.jiushengai.joy; build:1; iOS 11.4.1) Alamofire/4.8.2',
+  'accept' => '*/*',
+  'app-type' => 'ios',
+  'connection' => 'keep-alive',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => 'app.taijidjk69.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'token' => 'b8069624bf2f4e4cc1c79ce78fb09539c31dc58c',
+  'page' => '1',
+  'ver' => 'v1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\v1\Home->Goodhot[ /data/wwwroot/app/application/api/controller/v1/Home.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-06-09T16:13:37+08:00 ] 117.136.40.199 GET app.taijidjk69.com/api/v1/good/details?token=b8069624bf2f4e4cc1c79ce78fb09539c31dc58c&id=1
+[运行时间：0.016344s] [吞吐率：61.18req/s] [内存消耗：738.30kb] [文件加载：80]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.good',
+    2 => 'details',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip;q=1.0, compress;q=0.5',
+  'accept-language' => 'zh-Hans-CN;q=1.0',
+  'sign' => 'dfgdfgdfgfdgdfs',
+  'user-agent' => 'taiji/1.0 (com.jiushengai.joy; build:1; iOS 11.4.1) Alamofire/4.8.2',
+  'accept' => '*/*',
+  'app-type' => 'ios',
+  'connection' => 'keep-alive',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => 'app.taijidjk69.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'token' => 'b8069624bf2f4e4cc1c79ce78fb09539c31dc58c',
+  'id' => '1',
+  'ver' => 'v1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\v1\Good->details[ /data/wwwroot/app/application/api/controller/v1/Good.php ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File

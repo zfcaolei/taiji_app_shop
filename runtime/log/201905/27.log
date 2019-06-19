@@ -1,0 +1,4434 @@
+---------------------------------------------------------------
+[ 2019-05-27T18:27:47+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031354s] [吞吐率：31.89req/s] [内存消耗：890.56kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000032s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:27:50+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.033311s] [吞吐率：30.02req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:27:53+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.033334s] [吞吐率：30.00req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:27:56+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031300s] [吞吐率：31.95req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:27:59+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.032323s] [吞吐率：30.94req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000042s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:28:02+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.032030s] [吞吐率：31.22req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000027s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:28:05+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.032974s] [吞吐率：30.33req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:28:08+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.030124s] [吞吐率：33.20req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:28:11+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.030721s] [吞吐率：32.55req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:28:14+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.033221s] [吞吐率：30.10req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:28:17+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031574s] [吞吐率：31.67req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:28:20+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.032179s] [吞吐率：31.08req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:28:23+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.033421s] [吞吐率：29.92req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:28:26+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031361s] [吞吐率：31.89req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:28:29+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.029818s] [吞吐率：33.54req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000024s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:28:32+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031724s] [吞吐率：31.52req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000024s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:28:35+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.032040s] [吞吐率：31.21req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:28:38+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.032901s] [吞吐率：30.39req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000034s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:28:41+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031876s] [吞吐率：31.37req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:28:44+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.032031s] [吞吐率：31.22req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000037s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:28:47+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031737s] [吞吐率：31.51req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:28:50+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.032985s] [吞吐率：30.32req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:28:53+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031026s] [吞吐率：32.23req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000029s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:28:56+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.033737s] [吞吐率：29.64req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:28:59+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.029928s] [吞吐率：33.41req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:29:02+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.033754s] [吞吐率：29.63req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:29:05+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031271s] [吞吐率：31.98req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000024s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:29:08+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.033094s] [吞吐率：30.22req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000027s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:29:11+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.033345s] [吞吐率：29.99req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000035s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:29:14+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.030627s] [吞吐率：32.65req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:29:17+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.032555s] [吞吐率：30.72req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:29:20+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.032282s] [吞吐率：30.98req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:29:23+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031933s] [吞吐率：31.32req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000035s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:29:26+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031851s] [吞吐率：31.40req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:29:29+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.034033s] [吞吐率：29.38req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:29:32+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.032046s] [吞吐率：31.21req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:29:35+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031719s] [吞吐率：31.53req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:29:38+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.030779s] [吞吐率：32.49req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:29:41+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.030722s] [吞吐率：32.55req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000023s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:29:44+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031173s] [吞吐率：32.08req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000027s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:29:47+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.033728s] [吞吐率：29.65req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:29:50+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031588s] [吞吐率：31.66req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000023s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:29:53+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.030874s] [吞吐率：32.39req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000036s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:29:56+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031537s] [吞吐率：31.71req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:29:59+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031305s] [吞吐率：31.94req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:30:02+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031943s] [吞吐率：31.31req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:30:05+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.032547s] [吞吐率：30.72req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000027s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:30:08+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.029974s] [吞吐率：33.36req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:30:11+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.030337s] [吞吐率：32.96req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:30:14+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.033153s] [吞吐率：30.16req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:30:17+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031344s] [吞吐率：31.90req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:30:20+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031167s] [吞吐率：32.09req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:30:23+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.030735s] [吞吐率：32.54req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000031s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:30:26+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.032942s] [吞吐率：30.36req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:30:29+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.030841s] [吞吐率：32.42req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:30:32+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.032390s] [吞吐率：30.87req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000024s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:30:35+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.033457s] [吞吐率：29.89req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000024s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:30:38+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.030590s] [吞吐率：32.69req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:30:41+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031062s] [吞吐率：32.19req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:30:44+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031504s] [吞吐率：31.74req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000024s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:30:47+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.032731s] [吞吐率：30.55req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:30:50+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.033929s] [吞吐率：29.47req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:30:53+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.033185s] [吞吐率：30.13req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000027s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:30:56+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031171s] [吞吐率：32.08req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:30:59+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.033371s] [吞吐率：29.97req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:31:02+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031781s] [吞吐率：31.47req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:31:05+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.033510s] [吞吐率：29.84req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:31:08+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031492s] [吞吐率：31.75req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:31:11+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.029239s] [吞吐率：34.20req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000024s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:31:14+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.033776s] [吞吐率：29.61req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:31:17+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031551s] [吞吐率：31.69req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:31:20+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031548s] [吞吐率：31.70req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000027s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:31:23+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.033506s] [吞吐率：29.85req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:31:26+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.030041s] [吞吐率：33.29req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:31:29+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031928s] [吞吐率：31.32req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000023s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:31:32+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031163s] [吞吐率：32.09req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000024s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:31:35+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031238s] [吞吐率：32.01req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000024s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:31:38+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.033032s] [吞吐率：30.27req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:31:41+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031669s] [吞吐率：31.58req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000031s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:31:44+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.030283s] [吞吐率：33.02req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:31:47+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031696s] [吞吐率：31.55req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:31:50+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.033508s] [吞吐率：29.84req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:31:53+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.030967s] [吞吐率：32.29req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:31:56+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.033204s] [吞吐率：30.12req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000034s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:31:59+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.029260s] [吞吐率：34.18req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:32:02+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.032323s] [吞吐率：30.94req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:32:05+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031740s] [吞吐率：31.51req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:32:08+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.033429s] [吞吐率：29.91req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000028s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:32:11+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.033717s] [吞吐率：29.66req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:32:14+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.030263s] [吞吐率：33.04req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000024s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:32:17+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.032142s] [吞吐率：31.11req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:32:20+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031466s] [吞吐率：31.78req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:32:23+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.030072s] [吞吐率：33.25req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:32:26+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031042s] [吞吐率：32.21req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:32:29+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.032348s] [吞吐率：30.91req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:32:32+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.032072s] [吞吐率：31.18req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000033s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:32:35+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031611s] [吞吐率：31.63req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:32:38+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031556s] [吞吐率：31.69req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000024s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:32:41+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031166s] [吞吐率：32.09req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000023s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:32:44+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.030552s] [吞吐率：32.73req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000033s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:32:47+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.032316s] [吞吐率：30.94req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:32:50+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031249s] [吞吐率：32.00req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000024s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:32:53+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.030733s] [吞吐率：32.54req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:32:56+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.030487s] [吞吐率：32.80req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000029s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:32:59+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.032392s] [吞吐率：30.87req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:33:02+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.032028s] [吞吐率：31.22req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:33:05+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.033659s] [吞吐率：29.71req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:33:08+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031821s] [吞吐率：31.43req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:33:11+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031655s] [吞吐率：31.59req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000023s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:33:14+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.033882s] [吞吐率：29.51req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:33:17+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.030093s] [吞吐率：33.23req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000035s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:33:20+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031571s] [吞吐率：31.67req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:33:23+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.030611s] [吞吐率：32.67req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:33:26+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.029868s] [吞吐率：33.48req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000028s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:33:29+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.031735s] [吞吐率：31.51req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:33:32+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.033710s] [吞吐率：29.66req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000025s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:33:35+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.034277s] [吞吐率：29.17req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000026s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:33:38+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.030922s] [吞吐率：32.34req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000024s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T18:33:41+08:00 ] 119.136.155.185 GET app.taijidjk69.com/admin/index/jnotice.html
+[运行时间：0.030118s] [吞吐率：33.20req/s] [内存消耗：890.61kb] [文件加载：85]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'jnotice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7rku7r0ohc4c5lkoo6ufppr5j5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://app.taijidjk69.com/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run behavior\admin\SystemBehavior @admin_visit [ RunTime:0.000022s ]
+[ info ] [ RUN ] app\admin\controller\Index->Jnotice[ /data/wwwroot/app/application/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-05-27T19:23:48+08:00 ] 183.39.156.69 POST app.taijidjk69.com/api/v1/login/index
+[运行时间：0.004581s] [吞吐率：218.29req/s] [内存消耗：294.00kb] [文件加载：60]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.login',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'okhttp/3.10.0',
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+  'host' => 'app.taijidjk69.com',
+  'content-length' => '12',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'app-type' => 'android',
+  'sign' => '2423432432',
+)
+[ info ] [ PARAM ] array (
+  'phone' => '',
+  'code' => '',
+  'ver' => 'v1',
+)
+[ info ] [ RUN ] app\api\controller\v1\Login->index[ /data/wwwroot/app/application/api/controller/v1/Login.php ]
+[ info ] [ LOG ] INIT File

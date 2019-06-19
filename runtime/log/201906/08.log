@@ -1,0 +1,589 @@
+---------------------------------------------------------------
+[ 2019-06-08T01:38:11+08:00 ] 58.248.108.209 HEAD app.taijidjk69.com/
+[运行时间：0.004382s] [吞吐率：228.20req/s] [内存消耗：415.26kb] [文件加载：68]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'app.taijidjk69.com',
+  'accept' => '*/*',
+  'user-agent' => 'curl/7.29.0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-06-08T10:08:54+08:00 ] 119.136.153.228 GET app.taijidjk69.com/api/v1/home/baner?token=e532d7dbb63b6fec10c8d057478b98a9040b1fc3
+[运行时间：0.007018s] [吞吐率：142.49req/s] [内存消耗：644.77kb] [文件加载：74]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.home',
+    2 => 'baner',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip;q=1.0, compress;q=0.5',
+  'accept-language' => 'zh-Hans-CN;q=1.0, ja-JP;q=0.9',
+  'sign' => 'dfgdfgdfgfdgdfs',
+  'user-agent' => 'taiji/1.0 (com.jiushengai.joy; build:1; iOS 11.0.1) Alamofire/4.8.2',
+  'accept' => '*/*',
+  'app-type' => 'ios',
+  'connection' => 'keep-alive',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => 'app.taijidjk69.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'token' => 'e532d7dbb63b6fec10c8d057478b98a9040b1fc3',
+  'ver' => 'v1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [0]token错误[/data/wwwroot/app/application/api/controller/Auth.php:56]
+---------------------------------------------------------------
+[ 2019-06-08T10:12:19+08:00 ] 101.132.182.68 GET app.taijidjk69.com/
+[运行时间：0.004428s] [吞吐率：225.84req/s] [内存消耗：416.98kb] [文件加载：68]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+  'host' => 'app.taijidjk69.com',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D))',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'prefix' => 'admin',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-06-08T10:12:19+08:00 ] 101.132.182.68 GET app.taijidjk69.com/admin/login/index.html
+[运行时间：0.003711s] [吞吐率：269.47req/s] [内存消耗：306.81kb] [文件加载：62]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+  'host' => 'app.taijidjk69.com',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D))',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->index[ /data/wwwroot/app/application/admin/controller/Login.php ]
+[ info ] [ VIEW ] /data/wwwroot/app/application/admin/view/login/index.php [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-06-08T11:10:29+08:00 ] 119.136.153.228 GET app.taijidjk69.com/api/v1/good/details?token=e532d7dbb63b6fec10c8d057478b98a9040b1fc3&id=1
+[运行时间：0.007352s] [吞吐率：136.02req/s] [内存消耗：645.77kb] [文件加载：74]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.good',
+    2 => 'details',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip;q=1.0, compress;q=0.5',
+  'accept-language' => 'zh-Hans-CN;q=1.0, ja-JP;q=0.9',
+  'sign' => 'dfgdfgdfgfdgdfs',
+  'user-agent' => 'taiji/1.0 (com.jiushengai.joy; build:1; iOS 11.0.1) Alamofire/4.8.2',
+  'accept' => '*/*',
+  'app-type' => 'ios',
+  'connection' => 'keep-alive',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => 'app.taijidjk69.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'token' => 'e532d7dbb63b6fec10c8d057478b98a9040b1fc3',
+  'id' => '1',
+  'ver' => 'v1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [0]token错误[/data/wwwroot/app/application/api/controller/Auth.php:56]
+---------------------------------------------------------------
+[ 2019-06-08T16:44:09+08:00 ] 223.104.64.132 GET app.taijidjk69.com/api/v1/home/baner?token=b8069624bf2f4e4cc1c79ce78fb09539c31dc58c
+[运行时间：0.007856s] [吞吐率：127.29req/s] [内存消耗：660.00kb] [文件加载：73]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.home',
+    2 => 'baner',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip;q=1.0, compress;q=0.5',
+  'accept-language' => 'zh-Hans-CN;q=1.0',
+  'sign' => 'dfgdfgdfgfdgdfs',
+  'user-agent' => 'taiji/1.0 (com.jiushengai.joy; build:1; iOS 11.4.1) Alamofire/4.8.2',
+  'accept' => '*/*',
+  'app-type' => 'ios',
+  'connection' => 'keep-alive',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => 'app.taijidjk69.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'token' => 'b8069624bf2f4e4cc1c79ce78fb09539c31dc58c',
+  'ver' => 'v1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\v1\Home->Baner[ /data/wwwroot/app/application/api/controller/v1/Home.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-06-08T16:44:10+08:00 ] 223.104.64.132 GET app.taijidjk69.com/api/v1/home/adpic?token=b8069624bf2f4e4cc1c79ce78fb09539c31dc58c
+[运行时间：0.007031s] [吞吐率：142.23req/s] [内存消耗：659.78kb] [文件加载：73]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.home',
+    2 => 'adpic',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip;q=1.0, compress;q=0.5',
+  'accept-language' => 'zh-Hans-CN;q=1.0',
+  'sign' => 'dfgdfgdfgfdgdfs',
+  'user-agent' => 'taiji/1.0 (com.jiushengai.joy; build:1; iOS 11.4.1) Alamofire/4.8.2',
+  'accept' => '*/*',
+  'app-type' => 'ios',
+  'connection' => 'keep-alive',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => 'app.taijidjk69.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'token' => 'b8069624bf2f4e4cc1c79ce78fb09539c31dc58c',
+  'ver' => 'v1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\v1\Home->Adpic[ /data/wwwroot/app/application/api/controller/v1/Home.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-06-08T16:44:10+08:00 ] 223.104.64.132 GET app.taijidjk69.com/api/v1/home/goodhot?token=b8069624bf2f4e4cc1c79ce78fb09539c31dc58c&page=1
+[运行时间：0.008175s] [吞吐率：122.32req/s] [内存消耗：675.06kb] [文件加载：76]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.home',
+    2 => 'goodhot',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip;q=1.0, compress;q=0.5',
+  'accept-language' => 'zh-Hans-CN;q=1.0',
+  'sign' => 'dfgdfgdfgfdgdfs',
+  'user-agent' => 'taiji/1.0 (com.jiushengai.joy; build:1; iOS 11.4.1) Alamofire/4.8.2',
+  'accept' => '*/*',
+  'app-type' => 'ios',
+  'connection' => 'keep-alive',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => 'app.taijidjk69.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'token' => 'b8069624bf2f4e4cc1c79ce78fb09539c31dc58c',
+  'page' => '1',
+  'ver' => 'v1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\v1\Home->Goodhot[ /data/wwwroot/app/application/api/controller/v1/Home.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-06-08T17:14:32+08:00 ] 112.96.112.99 GET app.taijidjk69.com/api/v1/good/details?token=e532d7dbb63b6fec10c8d057478b98a9040b1fc3&id=1
+[运行时间：0.007354s] [吞吐率：135.98req/s] [内存消耗：645.77kb] [文件加载：74]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.good',
+    2 => 'details',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip;q=1.0, compress;q=0.5',
+  'accept-language' => 'zh-Hans-CN;q=1.0, ja-JP;q=0.9',
+  'sign' => 'dfgdfgdfgfdgdfs',
+  'user-agent' => 'taiji/1.0 (com.jiushengai.joy; build:1; iOS 11.0.1) Alamofire/4.8.2',
+  'accept' => '*/*',
+  'app-type' => 'ios',
+  'connection' => 'keep-alive',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => 'app.taijidjk69.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'token' => 'e532d7dbb63b6fec10c8d057478b98a9040b1fc3',
+  'id' => '1',
+  'ver' => 'v1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [0]token错误[/data/wwwroot/app/application/api/controller/Auth.php:56]
+---------------------------------------------------------------
+[ 2019-06-08T17:15:02+08:00 ] 112.96.112.99 GET app.taijidjk69.com/api/v1/good/details?token=e532d7dbb63b6fec10c8d057478b98a9040b1fc3&id=1
+[运行时间：0.006947s] [吞吐率：143.95req/s] [内存消耗：645.77kb] [文件加载：74]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.good',
+    2 => 'details',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip;q=1.0, compress;q=0.5',
+  'accept-language' => 'zh-Hans-CN;q=1.0, ja-JP;q=0.9',
+  'sign' => 'dfgdfgdfgfdgdfs',
+  'user-agent' => 'taiji/1.0 (com.jiushengai.joy; build:1; iOS 11.0.1) Alamofire/4.8.2',
+  'accept' => '*/*',
+  'app-type' => 'ios',
+  'connection' => 'keep-alive',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => 'app.taijidjk69.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'token' => 'e532d7dbb63b6fec10c8d057478b98a9040b1fc3',
+  'id' => '1',
+  'ver' => 'v1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [0]token错误[/data/wwwroot/app/application/api/controller/Auth.php:56]
+---------------------------------------------------------------
+[ 2019-06-08T17:15:40+08:00 ] 112.96.112.99 GET app.taijidjk69.com/api/v1/good/details?token=e532d7dbb63b6fec10c8d057478b98a9040b1fc3&id=2
+[运行时间：0.007454s] [吞吐率：134.16req/s] [内存消耗：645.77kb] [文件加载：74]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.good',
+    2 => 'details',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip;q=1.0, compress;q=0.5',
+  'accept-language' => 'zh-Hans-CN;q=1.0, ja-JP;q=0.9',
+  'sign' => 'dfgdfgdfgfdgdfs',
+  'user-agent' => 'taiji/1.0 (com.jiushengai.joy; build:1; iOS 11.0.1) Alamofire/4.8.2',
+  'accept' => '*/*',
+  'app-type' => 'ios',
+  'connection' => 'keep-alive',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => 'app.taijidjk69.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'token' => 'e532d7dbb63b6fec10c8d057478b98a9040b1fc3',
+  'id' => '2',
+  'ver' => 'v1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [0]token错误[/data/wwwroot/app/application/api/controller/Auth.php:56]
+---------------------------------------------------------------
+[ 2019-06-08T17:16:51+08:00 ] 112.96.112.99 GET app.taijidjk69.com/api/v1/home/baner?token=e532d7dbb63b6fec10c8d057478b98a9040b1fc3
+[运行时间：0.007096s] [吞吐率：140.93req/s] [内存消耗：644.77kb] [文件加载：74]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.home',
+    2 => 'baner',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip;q=1.0, compress;q=0.5',
+  'accept-language' => 'zh-Hans-CN;q=1.0, ja-JP;q=0.9',
+  'sign' => 'dfgdfgdfgfdgdfs',
+  'user-agent' => 'taiji/1.0 (com.jiushengai.joy; build:1; iOS 11.0.1) Alamofire/4.8.2',
+  'accept' => '*/*',
+  'app-type' => 'ios',
+  'connection' => 'keep-alive',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => 'app.taijidjk69.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'token' => 'e532d7dbb63b6fec10c8d057478b98a9040b1fc3',
+  'ver' => 'v1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [0]token错误[/data/wwwroot/app/application/api/controller/Auth.php:56]
+---------------------------------------------------------------
+[ 2019-06-08T17:43:41+08:00 ] 119.136.153.228 GET app.taijidjk69.com/api/h5/good/details?id=null
+[运行时间：0.007708s] [吞吐率：129.74req/s] [内存消耗：580.85kb] [文件加载：69]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'h5.good',
+    2 => 'details',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://h6.taijidjk69.com/?from=timeline&isappinstalled=0',
+  'accept-language' => 'zh-cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1',
+  'accept' => 'application/json, text/plain, */*',
+  'connection' => 'keep-alive',
+  'origin' => 'http://h6.taijidjk69.com',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => 'null ',
+  'ver' => 'h5',
+)
+[ info ] [ RUN ] app\api\controller\H5\Good->details[ /data/wwwroot/app/application/api/controller/h5/Good.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-06-08T17:46:41+08:00 ] 119.136.153.228 GET app.taijidjk69.com/api/h5/good/details?id=null
+[运行时间：0.007467s] [吞吐率：133.92req/s] [内存消耗：580.85kb] [文件加载：69]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'h5.good',
+    2 => 'details',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://h6.taijidjk69.com/?from=timeline&isappinstalled=0',
+  'accept-language' => 'zh-cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1',
+  'accept' => 'application/json, text/plain, */*',
+  'connection' => 'keep-alive',
+  'origin' => 'http://h6.taijidjk69.com',
+  'host' => 'app.taijidjk69.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => 'null ',
+  'ver' => 'h5',
+)
+[ info ] [ RUN ] app\api\controller\H5\Good->details[ /data/wwwroot/app/application/api/controller/h5/Good.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-06-08T17:56:08+08:00 ] 223.104.64.132 GET app.taijidjk69.com/api/v1/good/details?token=b8069624bf2f4e4cc1c79ce78fb09539c31dc58c&id=1
+[运行时间：0.017918s] [吞吐率：55.81req/s] [内存消耗：738.30kb] [文件加载：80]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.good',
+    2 => 'details',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip;q=1.0, compress;q=0.5',
+  'accept-language' => 'zh-Hans-CN;q=1.0',
+  'sign' => 'dfgdfgdfgfdgdfs',
+  'user-agent' => 'taiji/1.0 (com.jiushengai.joy; build:1; iOS 11.4.1) Alamofire/4.8.2',
+  'accept' => '*/*',
+  'app-type' => 'ios',
+  'connection' => 'keep-alive',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => 'app.taijidjk69.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'token' => 'b8069624bf2f4e4cc1c79ce78fb09539c31dc58c',
+  'id' => '1',
+  'ver' => 'v1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\v1\Good->details[ /data/wwwroot/app/application/api/controller/v1/Good.php ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-06-08T17:56:42+08:00 ] 223.104.64.132 GET app.taijidjk69.com/api/v1/home/goodhot?token=b8069624bf2f4e4cc1c79ce78fb09539c31dc58c&page=2
+[运行时间：0.008066s] [吞吐率：123.98req/s] [内存消耗：674.28kb] [文件加载：76]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.home',
+    2 => 'goodhot',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip;q=1.0, compress;q=0.5',
+  'accept-language' => 'zh-Hans-CN;q=1.0',
+  'sign' => 'dfgdfgdfgfdgdfs',
+  'user-agent' => 'taiji/1.0 (com.jiushengai.joy; build:1; iOS 11.4.1) Alamofire/4.8.2',
+  'accept' => '*/*',
+  'app-type' => 'ios',
+  'connection' => 'keep-alive',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => 'app.taijidjk69.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'token' => 'b8069624bf2f4e4cc1c79ce78fb09539c31dc58c',
+  'page' => '2',
+  'ver' => 'v1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\v1\Home->Goodhot[ /data/wwwroot/app/application/api/controller/v1/Home.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-06-08T19:12:02+08:00 ] 112.96.112.99 GET app.taijidjk69.com/api/v1/good/details?token=e532d7dbb63b6fec10c8d057478b98a9040b1fc3&id=1
+[运行时间：0.007386s] [吞吐率：135.39req/s] [内存消耗：645.77kb] [文件加载：74]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.good',
+    2 => 'details',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip;q=1.0, compress;q=0.5',
+  'accept-language' => 'zh-Hans-CN;q=1.0, ja-JP;q=0.9',
+  'sign' => 'dfgdfgdfgfdgdfs',
+  'user-agent' => 'taiji/1.0 (com.jiushengai.joy; build:1; iOS 11.0.1) Alamofire/4.8.2',
+  'accept' => '*/*',
+  'app-type' => 'ios',
+  'connection' => 'keep-alive',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => 'app.taijidjk69.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'token' => 'e532d7dbb63b6fec10c8d057478b98a9040b1fc3',
+  'id' => '1',
+  'ver' => 'v1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [0]token错误[/data/wwwroot/app/application/api/controller/Auth.php:56]
+---------------------------------------------------------------
+[ 2019-06-08T19:36:06+08:00 ] 112.96.112.99 GET app.taijidjk69.com/api/v1/good/details?token=e532d7dbb63b6fec10c8d057478b98a9040b1fc3&id=1
+[运行时间：0.007478s] [吞吐率：133.73req/s] [内存消耗：645.77kb] [文件加载：74]
+[ info ] [ LANG ] /data/wwwroot/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'v1.good',
+    2 => 'details',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip;q=1.0, compress;q=0.5',
+  'accept-language' => 'zh-Hans-CN;q=1.0, ja-JP;q=0.9',
+  'sign' => 'dfgdfgdfgfdgdfs',
+  'user-agent' => 'taiji/1.0 (com.jiushengai.joy; build:1; iOS 11.0.1) Alamofire/4.8.2',
+  'accept' => '*/*',
+  'app-type' => 'ios',
+  'connection' => 'keep-alive',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'host' => 'app.taijidjk69.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'token' => 'e532d7dbb63b6fec10c8d057478b98a9040b1fc3',
+  'id' => '1',
+  'ver' => 'v1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [0]token错误[/data/wwwroot/app/application/api/controller/Auth.php:56]
