@@ -117,7 +117,7 @@ Route::get('api/:ver/setting/lists', 'api/:ver.setting/lists'); //设置页面
 Route::post('api/:ver/setting/modname', 'api/:ver.setting/modname'); //修改昵称
 Route::post('api/:ver/setting/modtel', 'api/:ver.setting/modtel'); //修改手机号码
 Route::post('api/:ver/setting/upload', 'api/:ver.setting/upload'); //上传图片
-
+Route::post('api/:ver/setting/uploadmore', 'api/:ver.setting/uploadmore'); //上传多图片
 
 //我的
 Route::get('api/:ver/my/myinfo', 'api/:ver.my/myinfo'); //我的信息

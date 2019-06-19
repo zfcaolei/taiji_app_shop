@@ -51,7 +51,7 @@ class Good extends Controller {
         }
 
 
-        $ProductData = ProductModel::get($id);
+        $ProductData = ProductModel::where(['id'=>$id,'is_del'=>0])->find();
 
         if (empty($ProductData)){
             return show(config('code.error'), '商品不存在', [], 400);
@@ -141,9 +141,6 @@ class Good extends Controller {
             if (!is_string($cartId) || !$cartId) return show(config('code.error'), '请提交购买的商品1', [], 400);
             $cartGroup = StoreCart::getUserProductCartList($user_id, $cartId, 1);
 
-
-
-
             if (count($cartGroup['invalid'])) return show(config('code.error'), '已失效', $cartGroup['invalid'][0]['productInfo']['store_name'], 400);//return JsonService::fail($cartGroup['invalid'][0]['productInfo']['store_name'] . '已失效!');
             if (!$cartGroup['valid']) return show(config('code.error'), '请提交购买的商品2', [], 400);
             $cartInfo = $cartGroup['valid'];
@@ -169,8 +166,6 @@ class Good extends Controller {
 
         }
         $data['orderKey'] = StoreOrder::cacheOrderInfo($user_id, $cartInfo, $priceGroup, $other);
-
-
 
 
 

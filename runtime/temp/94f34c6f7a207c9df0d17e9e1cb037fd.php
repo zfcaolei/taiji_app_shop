@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:3:{s:85:"C:\phpStudy\PHPTutorial\WWW\CRMEB/application/admin\view\store\store_product\attr.php";i:1556184114;s:72:"C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\view\public\head.php";i:1556184114;s:73:"C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\view\public\style.php";i:1556184114;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:3:{s:85:"C:\phpStudy\PHPTutorial\WWW\CRMEB/application/admin\view\store\store_product\attr.php";i:1560919717;s:72:"C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\view\public\head.php";i:1560919708;s:73:"C:\phpStudy\PHPTutorial\WWW\CRMEB\application\admin\view\public\style.php";i:1560919708;}*/ ?>
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>

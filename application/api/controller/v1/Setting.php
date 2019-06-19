@@ -30,16 +30,49 @@ class Setting extends Auth{
     {
 
         if (empty($_FILES['filename'])){
-            return show(1, 'false', '上传图片为空', 400);
+            return show(0, 'false', '上传图片为空', 400);
         }
-        $data =$_FILES['filename'];
+
         $res = UploadService::image('filename','store/comment');
         if($res->status == 200)
-            return  show(1, 'success', ['name'=>$res->fileInfo->getSaveName(),'url'=>UploadService::pathToUrl($res->dir)], 200);
+            return  show(1, 'success', ['name'=>$res->fileInfo->getSaveName(),'url'=>[UploadService::pathToUrl($res->dir)]], 200);
         else
-            return show(1, 'false', $res->error, 400);
-        
+            return show(0, 'false', $res->error, 400);
+
     }
+
+    /*
+     * 多图上传
+     */
+    public function uploadMore(Request $request)
+    {
+        $files = request()->file('file');
+        $path = ROOT_PATH . 'public' . DS . 'uploads/store/comment';
+        foreach($files as $file){
+            // 移动到框架应用根目录/public/uploads/ 目录下
+
+            $info = $file->rule('uniqid')->validate(['size' => 2 * 1024 * 1024, 'ext' =>'jpg,png,gif'])->move($path);
+//            $info = $file->move(ROOT_PATH . 'public' . DS . 'uploads/store/comment');
+            if(!isset($_FILES['file']))  return show(0, 'false', '上传图片为空', 400);
+
+
+
+
+            if($info){
+                // 成功上传后 获取上传信息
+                // 输出 jpg
+                $data[] = $info->getFilename();
+                // 输出 42a79759f284b767dfcb2a0197904287.jpg
+//                echo $info->getFilename();
+            }else{
+                // 上传失败获取错误信息
+                echo $file->getError();
+            }
+        }
+        var_dump($data);
+    }
+
+
 
 
 
