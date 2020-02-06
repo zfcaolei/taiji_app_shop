@@ -600,6 +600,7 @@ class StoreOrder extends AuthController
 
     public function test(){
 
+        var_dump('test');
     }
 
 
