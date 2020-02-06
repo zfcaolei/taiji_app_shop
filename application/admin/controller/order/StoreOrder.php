@@ -604,5 +604,9 @@ class StoreOrder extends AuthController
     }
 
 
+    public function test2(){
+
+    }
+
 
 }
