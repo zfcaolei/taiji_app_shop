@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a267eac5-be45-46b0-88fb-de1010942caf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/controller/order/StoreOrder.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/admin/controller/order/StoreOrder.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/admin/controller/order/combinationOrder.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/admin/controller/order/combinationOrder.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

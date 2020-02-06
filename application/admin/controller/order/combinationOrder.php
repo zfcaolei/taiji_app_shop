@@ -586,6 +586,8 @@ class CombinationOrder extends AuthController
         var_dump(22222222);
     }
 
+    public function dev2(){
 
+    }
 
 }
