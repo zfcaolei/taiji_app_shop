@@ -597,4 +597,11 @@ class StoreOrder extends AuthController
        $this->assign(StoreOrderStatus::systemPage($oid));
        return $this->fetch();
     }
+
+    public function test(){
+
+    }
+
+
+
 }
