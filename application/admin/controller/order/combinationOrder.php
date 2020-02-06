@@ -580,4 +580,12 @@ class CombinationOrder extends AuthController
        $this->assign(StoreOrderStatus::systemPage($oid));
        return $this->fetch();
     }
+
+
+    public function dev(){
+        var_dump(22222222);
+    }
+
+
+
 }
